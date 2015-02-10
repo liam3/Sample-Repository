@@ -1,2 +1,0 @@
-# Sample-Repository
-Test
